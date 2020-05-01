@@ -1,9 +1,9 @@
 {
   "ci": {
     "collect": {
-      "numberOfRuns": 3
+      "numberOfRuns": 3,
+      "staticDistDir": "./dist"
     },
-    "staticDistDir": "dist/",
     "upload": {
       "target": "temporary-public-storage"
     }
