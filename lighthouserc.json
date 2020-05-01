@@ -3,7 +3,7 @@
     "collect": {
       "numberOfRuns": 3
     },
-    "statsDistDir": "dist/",
+    "staticDistDir": "dist/",
     "upload": {
       "target": "temporary-public-storage"
     }
