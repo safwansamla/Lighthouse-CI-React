@@ -2,7 +2,7 @@
   "ci": {
     "collect": {
       "numberOfRuns": 3,
-      "staticDistDir": "./dist"
+      "staticDistDir": "/Users/safwans/gdrive/PycharmProjects/Lighthouse-CI-React/dist"
     },
     "upload": {
       "target": "temporary-public-storage"
